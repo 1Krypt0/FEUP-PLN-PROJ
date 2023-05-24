@@ -1,0 +1,12 @@
+[{'epoch': 1,
+  'Training Loss': 0.8373585505814293,
+  'Valid. Loss': 0.7208714448498887,
+  'Valid. Accur.': 0.8298461123110151,
+  'Training Time': '3:48:51',
+  'Validation Time': '0:13:21'},
+ {'epoch': 2,
+  'Training Loss': 0.3526039081991805,
+  'Valid. Loss': 0.7140008347985111,
+  'Valid. Accur.': 0.843952483801296,
+  'Training Time': '3:49:01',
+  'Validation Time': '0:13:28'}]
